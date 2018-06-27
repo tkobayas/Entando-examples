@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Wed Jun 27 13:53:29 JST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0164-3f96-de39-0000190ba7d0 
+on database directory /home/tkobayas/usr/git/tkobayas/Entando-examples/entando-example/target/derby/production/entando-examplePort  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.2.11.v20150529, parent: sun.misc.Launcher$AppClassLoader@70dea4e] 
+Loaded from file:/home/tkobayas/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/tkobayas/usr/git/tkobayas/Entando-examples/entando-example
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 27 13:53:31 JST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a05c0120-0164-3f96-de39-0000190ba7d0 
+on database directory /home/tkobayas/usr/git/tkobayas/Entando-examples/entando-example/target/derby/production/entando-exampleServ  with class loader ClassRealm[plugin>org.eclipse.jetty:jetty-maven-plugin:9.2.11.v20150529, parent: sun.misc.Launcher$AppClassLoader@70dea4e] 
+Loaded from file:/home/tkobayas/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/tkobayas/usr/git/tkobayas/Entando-examples/entando-example
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
